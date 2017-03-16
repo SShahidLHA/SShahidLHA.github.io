@@ -1,0 +1,48 @@
+p {
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+	}	
+h3 {
+	text-align:center
+	font-family: "Arial Black", Gadget, sans-serif
+
+}
+body {
+  background: #E0FFFF;
+  color: #000080;
+  }
+  
+  #navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+}
+
+#header {
+	position:relative;
+	top: 10px;
+	background-color: #87CEEB;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+ul {
+	list-style-type: none;
+	position: center;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	border: 2px solid #0000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color:#4169E1
+}
+img { 
+	height: 400px;
+	width:300px;
+	box-shadow: rgba(0,0,0,0.2) 20px 15px;

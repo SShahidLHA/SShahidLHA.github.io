@@ -1,0 +1,45 @@
+p {
+	text-align: center;
+	font-family: "Lucida Console", Monaco, monospace;
+	}
+
+ #navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+}
+
+#header {
+	position:relative;
+	top: 10px;
+	background-color: #00FF00;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+ul {
+	list-style-type: none;
+	position: center;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	border: 2px solid #0000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color:#32CD32
+}
+
+body {
+  background: #ADFF2F;
+  color: #008000;
+  }
+  
+img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jack_Johnson_boxer.jpg/180px-Jack_Johnson_boxer.jpg" { 
+	height: 400px;
+	width:300px;
+	box-shadow: rgba(0,0,0,0.2) 20px 15px;
